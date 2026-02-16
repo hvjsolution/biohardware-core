@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --- CONFIGURACIÓN (REEMPLAZA CON TU URL REAL) ---
-URL_BASE="https://tu-proyecto-rtdb.firebaseio.com/clientes"
+URL_BASE="https://biohardware-5f47c-default-rtdb.firebaseio.com/clientes"
 URL_BINARIO="https://raw.githubusercontent.com/hvjsolution/biohardware-core/main/biohardware"
 
 # Colores para la terminal
